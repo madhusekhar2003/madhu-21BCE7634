@@ -5,5 +5,5 @@
 - [x] Day 3 HTML Links - HTML Lists
 - [x] Day 4 HTML Block & Inline - HTML Responsive
 - [x] Day 5 HTML Forms and CSS Syntax - CSS Padding
-- [ ] Day 6 CSS Position,Navigation,Dropdown,Forms,Website Layout
+- [x] Day 6 CSS Position,Navigation,Dropdown,Forms,Website Layout
 
